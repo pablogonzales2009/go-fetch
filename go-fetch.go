@@ -1,4 +1,4 @@
-package main
+package gofetch
 
 func main() {
 	println("what the the")
