@@ -1,5 +1,5 @@
 package main
 
-func test() {
+func main() {
 	println("what the the")
 }
