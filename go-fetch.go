@@ -1,9 +1,9 @@
 package gofetch
 
-func main() {
+func Main() {
 	println("what the the")
 }
 
-func printStuff(thingToPrint string) {
+func PrintStuff(thingToPrint string) {
 	println(thingToPrint)
 }
